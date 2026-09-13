@@ -1,4 +1,4 @@
-
+# 💫 Hi 👋, I'm Durgesh
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/durgesh patil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/durgesh-patil-7b528532a?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgeshpatil2401@gmail.com) 
 
@@ -8,7 +8,11 @@
 ![](https://github-readme-stats.shion.dev/api?username=durgesh2509&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=durgesh2509&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=durgesh2509&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=durgesh2509&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
